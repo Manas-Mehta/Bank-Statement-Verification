@@ -1,5 +1,5 @@
-# Bank-Statement-Verification
-# PDF Document Analysis and Fraud Detection System
+# PDF Document Analysis and Fraud Detection System for Bank-statement-verification
+![image](https://github.com/user-attachments/assets/46721ed5-097b-405c-98fa-ca6b93956a88)
 
 A comprehensive system for analyzing PDF documents (particularly bank statements) with features for fraud detection, text analysis, and interactive querying.
 
