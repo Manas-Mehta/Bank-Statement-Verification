@@ -27,35 +27,35 @@ This project implements a sophisticated document analysis pipeline that combines
 - PDF to image conversion
 - Visual consistency checking using Gemini 2.0 Flash
 
-- "1. Visual Consistency:\n"
-        "- Checks for inconsistent fonts, sizes, or spacing within transaction entries\n"
-        "- Looks for misaligned columns or rows in transaction tables\n"
-        "- Identifies any breaks in table lines or borders\n"
-        "- Detects variations in text opacity or quality\n"
+  1. Visual Consistency:
+        - Checks for inconsistent fonts, sizes, or spacing within transaction entries
+        - Looks for misaligned columns or rows in transaction tables
+        - Identifies any breaks in table lines or borders
+        - Detects variations in text opacity or quality
         
-  "2. Numerical Analysis:\n"
-        "- Checks if running balances correctly reflect transaction amounts\n"
-        "- Looks for unrealistic or suspiciously rounded transaction amounts\n"
-        "- Verifies that dates are in chronological order\n"
-        "- Checks for duplicate transaction entries\n"
+  2. Numerical Analysis:
+        - Checks if running balances correctly reflect transaction amounts
+        - Looks for unrealistic or suspiciously rounded transaction amounts
+        - Verifies that dates are in chronological order
+        - Checks for duplicate transaction entries
         
-  "3. Document Integrity:\n"
-        "- Identifies any signs of digital manipulation (blurring, pixelation, or artifacts)\n"
-        "- Checks for inconsistent backgrounds or color variations\n"
-        "- Looks for signs of cut-and-paste modifications\n"
-        "- Verifies that bank logos and branding elements appear authentic\n"
+  3. Document Integrity:
+        - Identifies any signs of digital manipulation (blurring, pixelation, or artifacts)
+        - Checks for inconsistent backgrounds or color variations
+        - Looks for signs of cut-and-paste modifications
+        - Verifies that bank logos and branding elements appear authentic
         
-        "4. Layout Analysis:\n"
-        "- Verifies consistent spacing between transactions\n"
-        "- Checks header and footer alignment across pages\n"
-        "- Looks for unusual gaps or spacing in transaction lists\n"
-        "- Verifies that account information formatting is consistent\n"
+  4. Layout Analysis:
+        - Verifies consistent spacing between transactions
+        - Checks header and footer alignment across pages
+        - Looks for unusual gaps or spacing in transaction lists
+        - Verifies that account information formatting is consistent
         
-        "5. Content Examination:\n"
-        "- Checks for unusual merchant names or descriptions\n"
-        "- Looks for inconsistent date formats\n"
-        "- Verifies that transaction codes follow expected patterns\n"
-        "- Checks for appropriate use of currency symbols and decimal places\n"
+  5. Content Examination:
+        - Checks for unusual merchant names or descriptions
+        - Looks for inconsistent date formats
+        - Verifies that transaction codes follow expected patterns
+        - Checks for appropriate use of currency symbols and decimal places
         
 
 #### Hidden Text Analysis
